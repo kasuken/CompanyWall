@@ -1,4 +1,4 @@
-📺 Company Wall
+# 📺 Company Wall
 
 Your All-in-One Organization Dashboard
 
