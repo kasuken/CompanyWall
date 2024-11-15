@@ -1,1 +1,2 @@
-# CompanyWall
+# Company Wall
+
