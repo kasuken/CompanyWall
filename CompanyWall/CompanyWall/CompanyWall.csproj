@@ -7,6 +7,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <PackageReference Include="MudBlazor" Version="8.3.0" />
       <PackageReference Include="Octokit" Version="13.0.1" />
       <PackageReference Include="OpenWeather" Version="2.2.1" />
     </ItemGroup>
